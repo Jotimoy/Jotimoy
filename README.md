@@ -81,9 +81,13 @@ I enjoy turning ideas into working prototypes—from smart monitoring and automa
 
 ## GitHub Activity
 
-![Jotimoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotimoy&show_icons=true&theme=tokyonight&hide_border=true)
+### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotimoy&layout=compact&theme=tokyonight&hide_border=true)
+[![Jotimoy's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jotimoy&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Jotimoy)
+
+### Top Languages
+
+[![Jotimoy's top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jotimoy&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jotimoy?tab=repositories)
 
 ## Connect With Me
 

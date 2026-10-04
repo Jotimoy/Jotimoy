@@ -91,7 +91,7 @@ I enjoy turning ideas into working prototypes—from smart monitoring and automa
 
 ## Connect With Me
 
-- [LinkedIn](linkedin.com/in/jotirmoy-mollick-b67865240)
+- [LinkedIn](https://www.linkedin.com/in/jotirmoy-mollick-b67865240)
 - [Facebook](https://www.facebook.com/joti.moy.mo/)
 
 ---
